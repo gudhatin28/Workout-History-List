@@ -7,10 +7,11 @@ function App() {
   return (
     <BrowserRouter>
       <div style={{ padding: "1rem" }}>
+      <h1>STRONGER EVERYDAY</h1>
         {/* Simple nav */}
         <nav style={{ marginBottom: "1rem" }}>
-         <h1><Link to="/" style={{ marginRight: "3rem" }}>Home</Link>
-          <Link to="/workout-history">Workout History</Link></h1>
+         <h2><Link to="/" style={{ marginRight: "3rem" }}>Home</Link>
+          <Link to="/workout-history">Workout History</Link></h2>
           <div
 
 >
